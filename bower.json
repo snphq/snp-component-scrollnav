@@ -1,0 +1,26 @@
+{
+  "name": "snp-component-scrollnav",
+  "version": "0.0.1",
+  "homepage": "https://github.com/snphq/snp-component-scrollnav",
+  "authors": [
+    "Author name <authot email@saltpepper.ru>"
+  ],
+  "description": "Scroll navigation component for generator-sp",
+  "main": "dist/index.js",
+  "keywords": [
+    "generator-sp",
+    "component",
+    "backbone",
+    "scroll",
+    "scroll navigation",
+    "navigation"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
